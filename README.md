@@ -61,7 +61,6 @@ Scripts for VFA profile processing, Aitchison/CLR-based clustering, and assignme
 Scripts for untargeted metabolomics processing and downstream analyses.
 
 **Typical tasks**
-- raw MS1/MS2 processing
 - feature extraction and annotation
 - OPLS-DA and differential metabolite analysis
 - pathway-oriented metabolite visualization
@@ -97,7 +96,6 @@ Scripts for MAG quality control, dereplication, taxonomy assignment, phylogeny, 
 - dRep-based dereplication
 - CheckM/CheckM2 reruns
 - GTDB-Tk annotation
-- GTDB-based tree preparation
 - PhyloPhlAn tree construction
 - NR-based protein similarity analysis
 
